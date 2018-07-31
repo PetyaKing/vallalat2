@@ -1,0 +1,37 @@
+C:\Users\zracz_000\Documents\Ádám\Projekt\Programozás\c# programok\vallalat\vallalat\bin\Debug\vallalat.exe.config
+C:\Users\zracz_000\Documents\Ádám\Projekt\Programozás\c# programok\vallalat\vallalat\bin\Debug\vallalat.exe
+C:\Users\zracz_000\Documents\Ádám\Projekt\Programozás\c# programok\vallalat\vallalat\bin\Debug\vallalat.pdb
+C:\Users\zracz_000\Documents\Ádám\Projekt\Programozás\c# programok\vallalat\vallalat\obj\Debug\vallalat.csprojResolveAssemblyReference.cache
+C:\Users\zracz_000\Documents\Ádám\Projekt\Programozás\c# programok\vallalat\vallalat\obj\Debug\vallalat.exe
+C:\Users\zracz_000\Documents\Ádám\Projekt\Programozás\c# programok\vallalat\vallalat\obj\Debug\vallalat.pdb
+C:\Users\Koczka\Documents\vallalat\vallalat\bin\Debug\vallalat.exe.config
+C:\Users\Koczka\Documents\vallalat\vallalat\obj\Debug\vallalat.exe
+C:\Users\Koczka\Documents\vallalat\vallalat\obj\Debug\vallalat.pdb
+C:\Users\Koczka\Documents\vallalat\vallalat\bin\Debug\vallalat.exe
+C:\Users\Koczka\Documents\vallalat\vallalat\bin\Debug\vallalat.pdb
+C:\Users\Koczka\Documents\vallalat\vallalat\obj\Debug\vallalat.csprojResolveAssemblyReference.cache
+C:\Users\Koczka\Documents\vallalat\vallalat\bin\Debug\dolgozok.txt
+C:\Users\Koczka\Documents\vallalat\vallalat\bin\Debug\projektek.txt
+C:\Users\Koczka\Documents\vallalat\vallalat\bin\Debug\tagsagok.txt
+C:\Users\Koczka\Documents\vallalat\vallalat\bin\Debug\uzenetek.txt
+C:\Users\admin\Desktop\InfóTábor\Petin\vallalat\vallalat\bin\Debug\dolgozok.txt
+C:\Users\admin\Desktop\InfóTábor\Petin\vallalat\vallalat\bin\Debug\projektek.txt
+C:\Users\admin\Desktop\InfóTábor\Petin\vallalat\vallalat\bin\Debug\tagsagok.txt
+C:\Users\admin\Desktop\InfóTábor\Petin\vallalat\vallalat\bin\Debug\uzenetek.txt
+C:\Users\admin\Desktop\InfóTábor\Petin\vallalat\vallalat\bin\Debug\vallalat.exe.config
+C:\Users\admin\Desktop\InfóTábor\Petin\vallalat\vallalat\bin\Debug\vallalat.exe
+C:\Users\admin\Desktop\InfóTábor\Petin\vallalat\vallalat\bin\Debug\vallalat.pdb
+C:\Users\admin\Desktop\InfóTábor\Petin\vallalat\vallalat\obj\Debug\vallalat.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\InfóTábor\Petin\vallalat\vallalat\obj\Debug\vallalat.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\InfóTábor\Petin\vallalat\vallalat\obj\Debug\vallalat.exe
+C:\Users\admin\Desktop\InfóTábor\Petin\vallalat\vallalat\obj\Debug\vallalat.pdb
+E:\asztal\InfóTábor\Petin\vallalat\vallalat\bin\Debug\dolgozok.txt
+E:\asztal\InfóTábor\Petin\vallalat\vallalat\bin\Debug\tagsagok.txt
+E:\asztal\InfóTábor\Petin\vallalat\vallalat\bin\Debug\uzenetek.txt
+E:\asztal\InfóTábor\Petin\vallalat\vallalat\bin\Debug\vallalat.exe.config
+E:\asztal\InfóTábor\Petin\vallalat\vallalat\bin\Debug\vallalat.exe
+E:\asztal\InfóTábor\Petin\vallalat\vallalat\bin\Debug\vallalat.pdb
+E:\asztal\InfóTábor\Petin\vallalat\vallalat\obj\Debug\vallalat.csprojAssemblyReference.cache
+E:\asztal\InfóTábor\Petin\vallalat\vallalat\obj\Debug\vallalat.csproj.CoreCompileInputs.cache
+E:\asztal\InfóTábor\Petin\vallalat\vallalat\obj\Debug\vallalat.exe
+E:\asztal\InfóTábor\Petin\vallalat\vallalat\obj\Debug\vallalat.pdb

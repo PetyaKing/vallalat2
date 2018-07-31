@@ -1,0 +1,9 @@
+1:Kata:12K55:1
+2:Ica:9I44C:0
+3:Laci:GNI62:0
+4:Peter:Sgh77:0
+5:Vilmos:99V22:0
+6:Ibolya:LLXS8:0
+7:Laci2:1234:0
+8:Péter:asd123:0
+8:Ákos:asd123:0
